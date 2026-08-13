@@ -3,8 +3,16 @@
 **A Research White Paper on Golden-Ratio Growth Models for Agentic Artificial Intelligence**
 
 **Version 1.0**  
-**Date:** 2026-08-13  
-**Status:** Public Research Release
+**Date:** August 13, 2026
+
+---
+
+**Authored by**  
+Chaz J. Peterson  
+
+- GitHub: [CjPetersonIX](https://github.com/CjPetersonIX)  
+- LinkedIn: [cjpetersonix](https://www.linkedin.com/in/cjpetersonix)  
+- X: [CJPetersonIX](https://x.com/CJPetersonIX)
 
 ---
 
